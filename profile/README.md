@@ -1,5 +1,3 @@
-# Topics
-
 1. [CPP Basics](https://github.com/Iam-learning/CPP-Basics)
 2. [C Programs](https://github.com/Iam-learning/C-Programs)
 3. [Python Programs](https://github.com/Iam-learning/python-programmes)
